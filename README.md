@@ -7,7 +7,7 @@
 #### What you need: 
 * AWS Redshift cluster
 * PostgreSQL (local installation)
-* Python
+* Python 3.x
 	* psycopg2 
 
 #### Requirements: 
