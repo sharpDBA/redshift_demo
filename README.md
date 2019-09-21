@@ -1,5 +1,16 @@
 ##  Demo: Create table in AWS Redshift with 3 columns
 
+### Simplified Instructions:  
+1) Clone the redshift_demo directory.
+2) Run run_query.py and follow the prompts.
+
+#### What you need: 
+* AWS Redshift cluster
+* PostgreSQL (local installation)
+* Python
+	* psycopg2 
+
+#### Requirements: 
 Project directory tree.  
 
 ```
@@ -10,14 +21,7 @@ redshift_demo
 |	run_query.py
 ```
 
-###Requirements: 
-
-* AWS Redshift cluster
-* PostgreSQL (local installation)
-* Python
-	* psycopg2 
-
-### File contents
+#### File contents
 
 The **conn.py** file should contain or generate the variables for:  
 
