@@ -19,11 +19,11 @@ redshift_demo
 
 ### File contents
 
-The **conn.py** file should contain the variables for:  
+The **conn.py** file should contain or generate the variables for:  
 
 * AWS Redshift cluster host / endpoint
 
-The **cred.py** file should contain the variables for:  
+The **cred.py** file should contain or generate the variables for:  
 
 * AWS Redshift cluster database user.  
 * AWS Redshift cluster database password.
